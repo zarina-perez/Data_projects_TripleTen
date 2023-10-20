@@ -40,4 +40,8 @@ The data is provided by TripleTen, who took it from Kaggle and modified it.
 
 I first explored the dataset to find and fix missing and duplicate values, and I merged DataFrames from different sources. Finally, I analyzed the data using visualizations and pivot tables.
 
+### Results
+
 Taking the time to explain my results at each step was a key element in this process, and this was my first attempt at doing it. I wrote an introduction and conclusion that outlined what I did, and made suggestions for Instacart to consider in the future.
+
+Please have a look at the Jupyter Notebook included for a full description of results.
